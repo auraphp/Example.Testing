@@ -1,5 +1,6 @@
 <?php
-class Test extends \PHPUnit_Framework_TestCase
+namespace Example\Testing;
+class FooTest extends \PHPUnit_Framework_TestCase
 {
     public function test()
     {
