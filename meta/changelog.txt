@@ -1,0 +1,39 @@
+commit 5927242e7936ed2441b7ce32f85cf6a24fbee150
+Author:     Paul M. Jones <pmjones88@gmail.com>
+AuthorDate: Mon Jan 16 19:39:25 2012 -0600
+Commit:     Paul M. Jones <pmjones88@gmail.com>
+CommitDate: Mon Jan 16 19:39:25 2012 -0600
+
+    use proper naming
+
+commit de907132e2e77c31a9c9e200b5d6b8ee4a8f8fec
+Author:     Paul M. Jones <pmjones88@gmail.com>
+AuthorDate: Mon Jan 16 19:33:12 2012 -0600
+Commit:     Paul M. Jones <pmjones88@gmail.com>
+CommitDate: Mon Jan 16 19:33:12 2012 -0600
+
+    update example package
+
+commit aa7ab473b995761fe48874e4d6a1d7871a6c8715
+Author:     Paul M. Jones <pmjones88@gmail.com>
+AuthorDate: Mon Jan 16 19:25:53 2012 -0600
+Commit:     Paul M. Jones <pmjones88@gmail.com>
+CommitDate: Mon Jan 16 19:25:53 2012 -0600
+
+    add test class
+
+commit b3e3212073c3302f6b3b6cf447f7f149b9ec61f2
+Author:     Paul M. Jones <pmjones88@gmail.com>
+AuthorDate: Mon Jan 16 19:25:22 2012 -0600
+Commit:     Paul M. Jones <pmjones88@gmail.com>
+CommitDate: Mon Jan 16 19:25:22 2012 -0600
+
+    filler text
+
+commit bf0688d531007376a62190b716cba65a623b8645
+Author:     Paul M. Jones <pmjones88@gmail.com>
+AuthorDate: Mon Jan 16 19:17:57 2012 -0600
+Commit:     Paul M. Jones <pmjones88@gmail.com>
+CommitDate: Mon Jan 16 19:17:57 2012 -0600
+
+    first commit

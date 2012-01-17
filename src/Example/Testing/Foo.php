@@ -17,6 +17,15 @@ namespace Example\Testing;
  */
 class Foo
 {
+    /**
+     * 
+     * This is only an example method.
+     * 
+     * @param mixed $baz An example param.
+     * 
+     * @return void
+     * 
+     */
     public function bar($baz = 'dib')
     {
         return $baz;
