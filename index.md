@@ -17,6 +17,4 @@ Documentation
 
 Development README: <http://github.com/auraphp/Example.Testing>
 
-Versions:
-
-- 1.0.0-alpha1: [Readme](version/1.0.0-alpha1/index.md), [API](version/1.0.0-alpha1/api/)
+- v1.0.0-alpha1: [Readme](version/1.0.0-alpha1/), [API](version/1.0.0-alpha1/api/)
