@@ -1,3 +1,11 @@
+commit 6a529d44085cf7958fe682fdc5015eeda7312c9d
+Author:     Paul M. Jones <pmjones88@gmail.com>
+AuthorDate: Mon Jan 16 20:21:11 2012 -0600
+Commit:     Paul M. Jones <pmjones88@gmail.com>
+CommitDate: Mon Jan 16 20:21:11 2012 -0600
+
+    updating example for packaging
+
 commit 5927242e7936ed2441b7ce32f85cf6a24fbee150
 Author:     Paul M. Jones <pmjones88@gmail.com>
 AuthorDate: Mon Jan 16 19:39:25 2012 -0600
