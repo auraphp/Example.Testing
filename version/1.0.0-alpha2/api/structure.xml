@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<project version="0.17.2" title="">
+  <file path="Example/Testing/Foo.php" hash="70d0d8d73f19bb5e50cd4d6b2449f6a3" package="Default">
+    <class final="false" abstract="false" line="18" namespace="Example\Testing" package="Example\Testing">
+      <name>Foo</name>
+      <extends/>
+      <full_name>\Example\Testing\Foo</full_name>
+      <docblock>
+        <description>This is only an example class.</description>
+        <long-description/>
+        <tag line="11" name="package" description="Example.Testing"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" line="29" package="Default">
+        <name>bar</name>
+        <docblock>
+          <description>This is only an example method.</description>
+          <long-description/>
+          <tag line="20" name="param" description="An example param." type="mixed" variable="$baz">
+            <type by_reference="false">mixed</type>
+          </tag>
+          <tag line="20" name="return" description="" type="void">
+            <type by_reference="false">void</type>
+          </tag>
+        </docblock>
+        <argument line="29">
+          <name>$baz</name>
+          <default>'dib'</default>
+          <type/>
+        </argument>
+      </method>
+    </class>
+  </file>
+  <package name="Default"/>
+  <package name="Example">
+    <package name="Testing"/>
+  </package>
+  <namespace name="Example">
+    <namespace name="Testing"/>
+  </namespace>
+  <marker>todo</marker>
+  <marker>fixme</marker>
+</project>

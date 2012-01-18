@@ -12,9 +12,12 @@ The quick brown fox jumps over the lazy dog.
 
 Now is the time for all good men to come to the aid of their country.
 
-Documentation
--------------
+Versions
+--------
 
-Development README: <http://github.com/auraphp/Example.Testing>
+- Development: <https://github.com/auraphp/Example.Testing>
 
-- v1.0.0-alpha1: [Readme](version/1.0.0-alpha1/), [API](version/1.0.0-alpha1/api/)
+- v1.0.0-alpha2: [.zip](https://github.com/auraphp/Example.Testing/zip/1.0.0-alpha2), [readme](version/1.0.0-alpha2/), [api](version/1.0.0-alpha2/api/)
+
+- v1.0.0-alpha2: [.zip](https://github.com/auraphp/Example.Testing/zip/1.0.0-alpha2), [readme](version/1.0.0-alpha2/), [api](version/1.0.0-alpha2/api/)
+
