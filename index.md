@@ -19,10 +19,6 @@ Versions
 
 - Master: <https://github.com/auraphp/Example.Testing>
 
-- 1.0.0-alpha7: [.zip](https://github.com/auraphp/Example.Testing/zipball/1.0.0-alpha7), [.tar.gz](https://github.com/auraphp/Example.Testing/tarball/1.0.0-alpha7), [readme](version/1.0.0-alpha7/), [api](version/1.0.0-alpha7/api/)
-
-- 1.0.0-alpha6: [.zip](https://github.com/auraphp/Example.Testing/zipball/1.0.0-alpha6), [.tar.gz](https://github.com/auraphp/Example.Testing/tarball/1.0.0-alpha6), [readme](version/1.0.0-alpha6/), [api](version/1.0.0-alpha6/api/)
-
 - 1.0.0-alpha5: [.zip](https://github.com/auraphp/Example.Testing/zipball/1.0.0-alpha5), [.tar.gz](https://github.com/auraphp/Example.Testing/tarball/1.0.0-alpha5), [readme](version/1.0.0-alpha5/), [api](version/1.0.0-alpha5/api/)
 
 - 1.0.0-alpha4: [.zip](https://github.com/auraphp/Example.Testing/zipball/1.0.0-alpha4), [.tar.gz](https://github.com/auraphp/Example.Testing/tarball/1.0.0-alpha4), [readme](version/1.0.0-alpha4/), [api](version/1.0.0-alpha4/api/)
