@@ -3,6 +3,8 @@
  * 
  * This is only an example file.
  * 
+ * @package Example.Testing
+ * 
  * @license http://opensource.org/licenses/bsd-license.php BSD
  * 
  */
