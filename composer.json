@@ -1,14 +1,14 @@
 {
     "name": "example/testing",
-    "type": "library",
+    "type": "aura-package",
     "description": "This is a long description of the package.\n\nThe quick brown fox jumps over the lazy dog.\n\nNow is the time for all good men to come to the aid of their country.",
     "keywords": [
         "example",
         "testing"
     ],
     "homepage": "http://auraphp.github.com/Example.Testing",
-    "version": "1.0.0-beta3",
-    "time": "2012-07-30",
+    "version": "1.0.0",
+    "time": "2012-11-27",
     "license": "BSD",
     "authors": [
         {
@@ -24,7 +24,6 @@
     "require": {
         "php": " >= 5.4"
     },
-    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "Example\\Testing": "src/"
