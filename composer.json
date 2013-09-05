@@ -1,15 +1,16 @@
 {
-    "name": "example/testing",
+    "name": "aura/example-testing",
     "type": "aura-package",
     "description": "This is a long description of the package.\n\nThe quick brown fox jumps over the lazy dog.\n\nNow is the time for all good men to come to the aid of their country.",
     "keywords": [
+        "aura",
         "example",
         "testing"
     ],
     "homepage": "http://auraphp.github.com/Example.Testing",
     "version": "1.0.0",
     "time": "2012-11-27",
-    "license": "BSD",
+    "license": "BSD-2-Clause",
     "authors": [
         {
             "name": "Example.Testing Contributors",
