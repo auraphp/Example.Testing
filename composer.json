@@ -1,6 +1,6 @@
 {
     "name": "example/testing",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "type": "aura-package",
     "description": "This is a long description of the package.\n\nThe quick brown fox jumps over the lazy dog.\n\nNow is the time for all good men to come to the aid of their country.",
     "keywords": [
