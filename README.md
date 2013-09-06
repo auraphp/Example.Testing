@@ -1,1 +1,1 @@
-For develop example and testing purposes only.
+For example and testing purposes only.
