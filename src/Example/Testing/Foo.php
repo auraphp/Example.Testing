@@ -1,7 +1,7 @@
 <?php
 /**
  * 
- * This is only an example file.
+ * This is an example file.
  * 
  * @package Example.Testing
  * 
@@ -12,7 +12,7 @@ namespace Example\Testing;
 
 /**
  * 
- * This is only an example class.
+ * This is an example class.
  * 
  * @package Example.Testing
  * 
@@ -21,9 +21,9 @@ class Foo
 {
     /**
      * 
-     * This is only an example method.
+     * This is an example method.
      * 
-     * @param mixed $baz An example param.
+     * @param string $baz This is an example param.
      * 
      * @return void
      * 
