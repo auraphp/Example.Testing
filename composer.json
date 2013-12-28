@@ -1,6 +1,6 @@
 {
     "name": "aura/example-testing",
-    "type": "aura-package",
+    "type": "library",
     "description": "This is a long description of the package.\n\nThe quick brown fox jumps over the lazy dog.\n\nNow is the time for all good men to come to the aid of their country.",
     "keywords": [
         "aura",
@@ -15,19 +15,14 @@
         {
             "name": "Example.Testing Contributors",
             "homepage": "https://github.com/auraphp/Example.Testing/contributors"
-        },
-        {
-            "name": "No Body",
-            "email": "nobody@example.com",
-            "homepage": "http://example.com"
         }
     ],
     "require": {
-        "php": " >= 5.4"
+        "php": ">= 5.3.0"
     },
     "autoload": {
-        "psr-0": {
-            "Example\\Testing": "src/"
-        }
+        "files": [
+            "autoload.php"
+        ]
     }
 }
