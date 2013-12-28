@@ -1,5 +1,5 @@
 {
-    "name": "aura/example-testing",
+    "name": "example/testing",
     "type": "library",
     "description": "This is a long description of the package.\n\nThe quick brown fox jumps over the lazy dog.\n\nNow is the time for all good men to come to the aid of their country.",
     "keywords": [
@@ -7,9 +7,7 @@
         "example",
         "testing"
     ],
-    "homepage": "http://auraphp.github.com/Example.Testing",
-    "version": "1.0.0",
-    "time": "2012-11-27",
+    "homepage": "http://auraphp.com/Example.Testing",
     "license": "BSD-2-Clause",
     "authors": [
         {
@@ -24,5 +22,10 @@
         "files": [
             "autoload.php"
         ]
-    }
+    },
+    "extra": [
+
+    ],
+    "version": "1.0.0",
+    "time": "2012-11-27"
 }
