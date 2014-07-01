@@ -28,6 +28,17 @@
     "autoload": {
         "psr-0": {
             "Example\\Testing": "src/"
+        },
+        "psr-4": {
+            "Example\\Testing\\_Config\\": "config/"
+        }
+    },
+    "extra": {
+        "aura": {
+            "type": "library",
+            "config": {
+                "Example": "Aura\\Testing\\_Config\\Common"
+            }
         }
     }
 }
